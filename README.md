@@ -1,2 +1,0 @@
-# pyBLDC
- Python BLDC simulator
